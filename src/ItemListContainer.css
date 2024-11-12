@@ -1,0 +1,20 @@
+.listContainer {
+    padding: 10px;
+}
+
+.productos {
+    list-style: none;
+    padding: 0px;
+}
+
+.producto {
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+
+.titulo {
+    text-align: center;
+}
